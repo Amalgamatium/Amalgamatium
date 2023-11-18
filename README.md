@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amalgamatium
+- 👀 I’m interested in writing code and building something from the ground up.
+- 🌱 I’m currently learning to work on projects.
+- 📫 How to reach me: Send me a message!
